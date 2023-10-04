@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fiber/static/css/main.073c9b0a.css",
+    "main.js": "/fiber/static/js/main.8a7d27ea.js",
+    "static/js/787.3adb45fa.chunk.js": "/fiber/static/js/787.3adb45fa.chunk.js",
+    "static/media/logo.svg": "/fiber/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fiber/index.html",
+    "main.073c9b0a.css.map": "/fiber/static/css/main.073c9b0a.css.map",
+    "main.8a7d27ea.js.map": "/fiber/static/js/main.8a7d27ea.js.map",
+    "787.3adb45fa.chunk.js.map": "/fiber/static/js/787.3adb45fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8a7d27ea.js"
+  ]
+}
